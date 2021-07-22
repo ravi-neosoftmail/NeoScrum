@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "NeoScrum",
+    "slug": "NeoScrum",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "NeoScrum"
+}
